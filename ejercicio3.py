@@ -1,6 +1,13 @@
 '''
 Ejercicio 3:
 Escribir un programa dado los catetos de un triangulo, rectangulo, calcular su hipotenusa
+
+entradas:
+cat1: int
+cat2: int
+
+salidas:
+hipo
 '''
 import math 
 cat1 = input("escribe el cateto 1 ") 

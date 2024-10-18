@@ -1,6 +1,16 @@
 '''
 Ejercicio 4:
 Escribir un programa dado los numeros, mostrar la suma, resta, multiplicacion y division
+
+entradas:
+num1: int
+num2: int
+
+salidas:
+suma
+resta
+mulitplicacion
+division 
 '''
 num1 = input("ingresa el primer numero: ")
 num1 = int(num1)

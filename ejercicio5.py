@@ -2,6 +2,11 @@
 Ejercicio 5:
 Escribir un programa que convierta un valor dado en grados Fahrenheit a grados Celius
 
+entradas: 
+gradosF
+
+salidas:
+gradosC
 '''
 gradosF =input ("Ingrese la gradosF que desea convertir: ")
 gradosF =int (gradosF)

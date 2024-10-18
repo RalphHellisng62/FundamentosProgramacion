@@ -2,6 +2,14 @@
 Ejercicio 2:
 Escribir un programa que calcule el perimetro y area de un rectangulo dada su base y su altura
 
+Entrada:
+base: int
+alt: int
+
+salidas:
+area 
+peri
+
 '''
 base = input("ingresa la base: ")
 base = int(base)
